@@ -14,7 +14,7 @@
 
 * 
     <details>
-  <summary>Эксперт предметной комисии ЕГЭ 2022</summary>
+  <summary>Эксперт предметной комиссии ЕГЭ 2022</summary>
 
   ![Описание изображения](https://github.com/vanna-addicted/vanna-addicted-certificates/blob/main/RECTIFY_IMG_20250829_111647.jpg)
 
